@@ -20,7 +20,7 @@ body{
   background: url(../images/fon3.png) no-repeat top center  / cover;
   position: absolute;
   width: 100%;
-  height: 3827px;
+  height: 3537,4px;
   z-index: -1;
 }
 
@@ -338,7 +338,7 @@ body{
 
 
 .price { /*Цена*/
-	width: 95px;
+	width: 96px;
 	height: 32px;
 	background-color: #ef2026;
 	position: absolute;
@@ -381,11 +381,8 @@ body{
 #b1 { /*Линия с точками :)*/
 	width: 960px;
 	height: 4px;
-	margin-left: 15px;
-	margin-top: 23px;
-	position: absolute;
-	background-image: url(../images/bg_3.png);
-	background-repeat: no-repeat;
+	border-bottom: 4px  dotted #ff0000;
+	border-spacing: 20px;
 }
 
 
@@ -509,7 +506,7 @@ body{
 #footer {
 	width: 100%;
 	height: 150px;
-	background-image: url(../images/footer.png);
+	background-image: url(../images/footer.jpg);
 	background-repeat: repeat;
 }
 
@@ -534,3 +531,16 @@ body{
 	float: left;
 	font-family: 'Open Sans Normal', sans-serif;
 }
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
